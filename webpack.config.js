@@ -37,7 +37,7 @@ const htmlWebpackPlugin = new HtmlWebpackPlugin({
   template: "./src/index.html"
 });
 const environmentPlugin = new webpack.EnvironmentPlugin({
-  API_URI: "",
+  API_URI: "https://store-cong-doi.herokuapp.com/graphql/",
   APP_MOUNT_URI: "/",
   DEMO_MODE: false,
   ENVIRONMENT: "",

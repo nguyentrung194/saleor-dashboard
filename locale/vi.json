@@ -7,7 +7,7 @@
     "string": "Xác định các thuộc tính sẽ sử dụng để tạo loại sản phẩm"
   },
   "configurationMenuChannels": {
-    "string": "Define and manage your sales channels"
+    "string": "Quản lí kênh bán hàng"
   },
   "configurationMenuNavigation": {
     "string": "Miêu tả cách người dùng điều hướng trong cửa hàng trực tuyến"
@@ -19,7 +19,7 @@
     "string": "Quản lý và thêm các trang khác"
   },
   "configurationMenuPermissionGroups": {
-    "string": "Manage your permission groups and their permissions"
+    "string": "Quản lí quyền"
   },
   "configurationMenuProductTypes": {
     "string": "Định nghĩa loại sản phẩm"
@@ -37,7 +37,7 @@
     "string": "Quản lý cách thức tính thuế"
   },
   "configurationMenuWarehouses": {
-    "string": "Manage and update your warehouse information"
+    "string": "Quản lý kho"
   },
   "configurationPluginsPages": {
     "string": "Xem và cập nhập các plugin"
@@ -1258,7 +1258,7 @@
   },
   "src_dot_channels_dot_pages_dot_ChannelsListPage_dot_4224047662": {
     "context": "button",
-    "string": "Create Channel"
+    "string": "Tạo kênh"
   },
   "src_dot_channels_dot_views_dot_ChannelCreate_dot_2071399707": {
     "context": "currency code select",
@@ -1266,7 +1266,7 @@
   },
   "src_dot_channels_dot_views_dot_ChannelCreate_dot_4169662653": {
     "context": "channel create",
-    "string": "New Channel"
+    "string": "Thêm kênh"
   },
   "src_dot_channels_dot_views_dot_ChannelCreate_dot_4224047662": {
     "context": "window title",
@@ -1932,7 +1932,7 @@
   },
   "src_dot_components_dot_Navigator_dot_modes_dot_createPermissionGroup": {
     "context": "button",
-    "string": "Create Permission Group"
+    "string": "Tạo nhóm mới"
   },
   "src_dot_components_dot_Navigator_dot_modes_dot_createProduct": {
     "context": "button",
@@ -2139,32 +2139,32 @@
     "string": "Khác"
   },
   "src_dot_configuration_dot_1440737903": {
-    "string": "Shipping Settings"
+    "string": "Vận chuyển"
   },
   "src_dot_configuration_dot_1742602794": {
-    "string": "Attributes and Product Types"
+    "string": "Loại và thuộc tính sản phẩm"
   },
   "src_dot_configuration_dot_3140151600": {
     "string": "Thiết Lập Nhân Viên"
   },
   "src_dot_configuration_dot_3351299924": {
-    "string": "Content Management"
+    "string": "Quản lý nội dung"
   },
   "src_dot_configuration_dot_3655543906": {
     "string": "Thiết Lập Sản Phẩm"
   },
   "src_dot_configuration_dot_887806978": {
-    "string": "Multichannel"
+    "string": "Quản lí kênh"
   },
   "src_dot_confirm": {
     "context": "button",
     "string": "Xác Nhận"
   },
   "src_dot_containers_dot_BackgroundTasks_dot_exportFailedTitle": {
-    "string": "Product Export Failed"
+    "string": "Xuất sản phẩm thất bại."
   },
   "src_dot_containers_dot_BackgroundTasks_dot_exportFinishedText": {
-    "string": "Product export has finished and was sent to your email address."
+    "string": "Quá trình hoàn tất, thông tin được gửi về email của bạn."
   },
   "src_dot_containers_dot_BackgroundTasks_dot_exportFinishedTitle": {
     "context": "csv file exporting has finished, header",
@@ -2606,7 +2606,7 @@
     "string": "Channels that don’t have assigned discounts will use their parent channel to define the price. Price will be converted to channel’s currency"
   },
   "src_dot_discounts_dot_components_dot_SaleValue_dot_4097816011": {
-    "string": "No channels found"
+    "string": "Không tìm thấy kênh nào"
   },
   "src_dot_discounts_dot_components_dot_SaleValue_dot_507892781": {
     "context": "column title",
@@ -2994,7 +2994,7 @@
     "string": "Đã Đáp Ứng"
   },
   "src_dot_generalInformations": {
-    "string": "General Information"
+    "string": "Thông tin chung"
   },
   "src_dot_home": {
     "context": "home section name",
@@ -3500,30 +3500,30 @@
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceEmailSendDialog_dot_2166306944": {
     "context": "dialog header",
-    "string": "Send Invoice"
+    "string": "Gửi hóa đơn"
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_24460204": {
     "context": "section header",
-    "string": "Invoices"
+    "string": "Hóa đơn"
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_2739475235": {
     "context": "invoice create date prefix",
-    "string": "được tạo"
+    "string": "Được tạo"
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_3340654960": {
-    "string": "No invoices to be shown"
+    "string": "Không có hóa đơn nào."
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_3589949197": {
     "context": "invoice number prefix",
-    "string": "Invoice"
+    "string": "Hóa đơn"
   },
   "src_dot_orders_dot_components_dot_OrderInvoiceList_dot_949234851": {
     "context": "generate invoice button",
-    "string": "Generate"
+    "string": "Xuất"
   },
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2225897825": {
     "context": "button",
-    "string": "Order Settings"
+    "string": "Cài đặt đơn hàng"
   },
   "src_dot_orders_dot_components_dot_OrderListPage_dot_2826235371": {
     "context": "button",
@@ -3676,38 +3676,38 @@
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_1580639738": {
     "context": "order refund amount",
-    "string": "Proposed refund amount"
+    "string": "Số tiền hoàn lại"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_1705174606": {
     "context": "order refund amount",
-    "string": "Max Refund"
+    "string": "Hoàn tiền tối đa"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_1734445951": {
     "context": "order refund amount",
-    "string": "Refund total amount"
+    "string": "Tổng tiền hoàn lại"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_2045860028": {
     "context": "order refund amount",
-    "string": "Authorized Amount"
+    "string": "Chủ sở hữu"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_2854815744": {
     "context": "order refund amount",
-    "string": "Previously refunded"
+    "string": "Đã hoàn lại trước đây"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_2907874606": {
     "context": "order refund amount",
-    "string": "Selected products value"
+    "string": "Giá trị sản phẩm đã chọn"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmountValues_dot_79173946": {
     "context": "order refund amount",
-    "string": "Shipment cost"
+    "string": "Phí vận chuyển"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_120912052": {
     "context": "order refund amount",
     "string": "Refunded items can’t be fulfilled"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_159210811": {
-    "string": "Amount must be bigger than 0"
+    "string": "Số lượng phải lớn hơn 0"
   },
   "src_dot_orders_dot_components_dot_OrderRefundAmount_dot_2256869831": {
     "context": "section header",
@@ -4218,7 +4218,7 @@
   },
   "src_dot_permissionGroups": {
     "context": "permission groups section name",
-    "string": "Permission Groups"
+    "string": "Nhóm quyền"
   },
   "src_dot_permissionGroups_dot_components_dot_AssignMembersDialog_dot_1004218338": {
     "context": "staff member status",
@@ -4264,15 +4264,15 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDeleteDialog_dot_3528974446": {
     "context": "dialog title",
-    "string": "Delete permission group"
+    "string": "Xóa"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDeleteDialog_dot_956177443": {
     "context": "deletion error message",
-    "string": "Cant's delete group which is out of your permission scope"
+    "string": "Bạn không có quyền xóa nhóm này"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDetailsPage_dot_3765873075": {
     "context": "checkbox label",
-    "string": "Group has full access to the store"
+    "string": "Nhóm có toàn quyền truy cập"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDetailsPage_dot_3920591233": {
     "context": "card description",
@@ -4280,15 +4280,15 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupInfo_dot_2081191949": {
     "context": "text field label",
-    "string": "Group name"
+    "string": "Tên nhóm"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupListPage_dot_613749311": {
     "context": "button",
-    "string": "create permission group"
+    "string": "Tạo nhóm"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupList_dot_2011544055": {
     "context": "permission group name",
-    "string": "Permission Group Name"
+    "string": "Tên nhóm quyền"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupList_dot_2734377620": {
     "string": "Members"
@@ -4297,7 +4297,7 @@
     "string": "Tuỳ chọn"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupList_dot_425941108": {
-    "string": "No permission groups found"
+    "string": "Không tìm thấy nhóm quyền"
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupMemberList_dot_1004218338": {
     "context": "staff member status",
@@ -5128,7 +5128,7 @@
   },
   "src_dot_products_dot_components_dot_ProductVariants_dot_3203451491": {
     "context": "filtering option",
-    "string": "All Warehouses"
+    "string": "Tất cả nhà kho"
   },
   "src_dot_products_dot_components_dot_ProductVariants_dot_3490038570": {
     "context": "product variant inventory status",
